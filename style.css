@@ -42,7 +42,7 @@ nav a {
 
 /* Title */
 .title {
-  margin-top: 20vh;
+  margin-top: 20%;
   /* border-bottom: 1px #ccc solid; */
   padding-bottom: 1rem;
 }
@@ -104,6 +104,9 @@ footer span {
 }
 
 @media (max-width: 550px) {
+  .title {
+    margin-top: 25%;
+  }
   .title h1 {
     font-size: 2rem;
   }
