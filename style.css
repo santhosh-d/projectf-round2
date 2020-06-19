@@ -159,6 +159,10 @@ footer span {
 }
 
 @media (max-width: 750px) {
+  .main-blog iframe {
+    width: 70vw;
+    height: 60vh;
+  }
   .main-blog img {
     width: 70vw;
   }
