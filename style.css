@@ -156,6 +156,10 @@ footer span {
   .posts {
     grid-template-columns: auto;
   }
+
+  .posts {
+    padding: 2%;
+  }
 }
 
 @media (max-width: 750px) {
